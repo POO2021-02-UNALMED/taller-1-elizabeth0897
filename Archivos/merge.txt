@@ -4,3 +4,4 @@ Elizabeth
 aspiro ganar la materia
 ya se puede porque la carpeta no está vacía
 
+es importante tener cuidado con modificar dos archivos al mismo tiempo por el cruce de informaci�n y por los conflictos al tratar de hacer push
